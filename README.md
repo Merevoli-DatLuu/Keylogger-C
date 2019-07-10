@@ -9,3 +9,8 @@
 5) Send to mail
 6) Encrypt
 ```
+## Phát Triển
+```
+1) Ducky USB
+2) Tự Phát Tán
+```
