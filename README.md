@@ -1,6 +1,6 @@
 # Keylogger C++
 
-## Tính Năng:
+## Tính Năng
 ```
 1) Ghi Kí Tự
 2) Hide Application
@@ -13,4 +13,9 @@
 ```
 1) Ducky USB
 2) Tự Phát Tán
+```
+
+## Dự Án Tiến
+```
+1) Payload
 ```
