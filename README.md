@@ -1,6 +1,6 @@
 # Keylogger C++
 
-Đây là source code cũ (4 năm trước). Là keylogger đơn giản nhất.
+Đây là source code cũ của tôi(4 năm trước). Là keylogger đơn giản nhất.
 
 <!--
 ## Tính Năng
