@@ -1,5 +1,8 @@
 # Keylogger C++
 
+Đây là source code cũ (4 năm trước). Là keylogger đơn giản nhất.
+
+<!--
 ## Tính Năng
 ```
 1) Ghi Kí Tự
@@ -19,3 +22,4 @@
 ```
 1) Payload
 ```
+-->
