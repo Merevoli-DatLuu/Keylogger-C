@@ -2,6 +2,7 @@
 
 Đây là source code cũ của tôi (4 năm trước). Là keylogger đơn giản nhất.
 
+Sắp tới sẽ cải tiến để hoàn thiện và đầy đủ tính năng.
 <!--
 ## Tính Năng
 ```
